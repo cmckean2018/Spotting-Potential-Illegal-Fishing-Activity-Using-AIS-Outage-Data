@@ -10,7 +10,7 @@ Analysis of 55,368 AIS disabling events published by Global Fishing Watch (2017â
 ### 1. Visualizing 'Hot Spots'
 Outages concentrate into a handful of specific places rather than spreading evenly across fishing grounds.
 
-[![Global heatmap of AIS disabling events](figures/figure1_map_preview.png)]
+![Global heatmap of AIS disabling events](figures/figure1_map_preview.png)
 **[Open the interactive map â†’](https://cmckean2018.github.io/Spotting-Potential-Illegal-Fishing-Activity-Using-AIS-Outage-Data/figures/figure1_map.html)**
 
 
