@@ -10,9 +10,9 @@ Analysis of 55,368 AIS disabling events published by Global Fishing Watch (2017�
 ### 1. Visualizing 'Hot Spots'
 Outages concentrate into a handful of specific places rather than spreading evenly across fishing grounds.
 
-[![Global heatmap of AIS disabling events](figures/figure1_map_preview.png)](https://cmckean2018.github.io/Spotting-Potential-Illegal-Fishing-Activity-Using-AIS-Outage-Data/figures/figure1_map.html)
+[![Global heatmap of AIS disabling events](figures/figure1_map_preview.png)]
+**[Open the interactive map →](https://cmckean2018.github.io/Spotting-Potential-Illegal-Fishing-Activity-Using-AIS-Outage-Data/figures/figure1_map.html)**
 
-*Click to open the interactive map.*
 
 ### 2. Vessels go dark near EEZ boundaries
 9,905 events begin in the 20 nautical miles just outside the 200-nautical-mile limit, against 1,202 in the 20 nautical miles just inside — roughly eight times as many on the seaward side. Equipment faults and satellite coverage gaps have no way of knowing where a legal boundary sits.
