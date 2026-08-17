@@ -13,7 +13,7 @@ Analysis of 55,368 AIS disabling events published by Global Fishing Watch (2017�
 
 ## Contents
 
-- `ais_data_story.ipynb` — full analysis
+- `McKean_data_story.ipynb` — full analysis
 - `figures/` — exported figures and the interactive map
 
 ## Tools
