@@ -5,7 +5,7 @@ Analysis of 55,368 AIS disabling events published by Global Fishing Watch (2017â
 
 ## Figures
 
- ![interactive map](https://cmckean2018.github.io/Spotting-Potential-Illegal-Fishing-Activity-Using-AIS-Outage-Data/figures/figure1_map.html)
+ **Visualizing 'Hot Spots'** â€” interactive map](https://cmckean2018.github.io/Spotting-Potential-Illegal-Fishing-Activity-Using-AIS-Outage-Data/figures/figure1_map.html)
 
 ![Distance from shore](figures/figure2_distance_from_shore.png)
 
