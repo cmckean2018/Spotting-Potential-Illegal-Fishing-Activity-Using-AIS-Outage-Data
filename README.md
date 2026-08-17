@@ -1,4 +1,4 @@
-Red Flag!: Spotting Potential Illegal Fishing Activity Using AIS Outage Data
+## Red Flag!: Spotting Potential Illegal Fishing Activity Using AIS Outage Data
 
 Data storytelling project, Master of Data Science, University of Pittsburgh.
 Analysis of 55,368 AIS disabling events published by Global Fishing Watch (2017–2019).
